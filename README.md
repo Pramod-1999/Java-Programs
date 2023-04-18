@@ -44,13 +44,13 @@ void compare(int, int)
 void compare(char, char)
 void compare(String, String)
 ```
-4. Program that creates a class Account that stores a variable balance. The class has methods to start account, to deposit money, to withdraw money and tell the current balance amount.
-5. Program to implement a Book class that stores the details of a book such as its code, title and price (Use constructors to initialize the objects).
-6. Program to differentiate between static and non-static methods.
-7. Program to illustrate the usage of **this**, **final** and **finalize**.
-8. Program to implement the concept of dynamic method dispatch.
+4. Program that creates a class Account that stores a variable balance. The class has methods to start account, to deposit money, to withdraw money and tell the current balance amount. [BankAccount.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/BankAccount.java)
+5. Program to implement a Book class that stores the details of a book such as its code, title and price (Use constructors to initialize the objects). [BookDetails.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/BookDetails.java)
+6. Program to differentiate between static and non-static methods. [StaticVsNonStaticMethod.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/StaticVsNonStaticMethod.java)
+7. Program to illustrate the usage of **this**, **final** and **finalize**. [This_Final_Finalize_Working.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/This_Final_Finalize_Working.java)
+8. Program to implement the concept of dynamic method dispatch. [DynamicMethodDispatch.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/DynamicMethodDispatch.java)
 9. Program to pass the variable length arguments. [VariableLenArgu.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/VariableLenArgu.java)
-10. Program to show the overloading of constructures.
+10. Program to show the overloading of constructures. [ConstructorOverloading.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/ConstructorOverloading.java)
 11. Program to read the comman line arguments and print the total number of arguments and its values. [CommandLineAgu.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/CommandLineAgu.java)
 
 ### Module 3:
@@ -58,17 +58,17 @@ void compare(String, String)
 1. Program for sorting a given list of names in ascending order.  [ListSorting.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ListSorting.java)
 2. Program to multiply two given matrices. [MatrixMultiplication.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/MatrixMultiplication.java)
 3. Program to find the maximum and minimum value in an array of size **m** passed as argument. [ArrayMinMax.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ArrayMinMax.java)
-4. Program to read and print an array of size **n** rows with variable column size. (Hint: Irregular Array).
+4. Program to read and print an array of size **n** rows with variable column size. (Hint: Irregular Array). [IrregularArray.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/IrregularArray.java)
 5. Program that copies contents of one array to another using length member.   [CopyArray.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/CopyArray.java)
 6. Program to find element from an sorted array using binary search. (Hint: java.util.package) [BinarySearch.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/BinarySearch.java)
 7. Program to delete duplicate elements from an array of size 5.                           [RemoveDuplicate.java](https://github.com/SaketJNU/JavaPrograms/blob/main/module3/RemoveDuplicate.java)
 8. Program that reverses an array and stores it in the same array. [ReverseArray.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ReverseArray.java)
 9. Program to implement all String methods on a Input String.  [StringOperations.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/StringOperations.java)
-10. Program to convert a given integer array of size **n** into string.
-11. Program to read and print a given string using different methods.
-12. Program to reverse the words in a string.
-13. Program to read a string and replace all the vowels with a **$** symbol.
-14. Program to count the number of occurrences of a search string in a given text string.
+10. Program to convert a given integer array of size **n** into string. [Integer2String.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/Integer2String.java)
+11. Program to read and print a given string using different methods. [ReadStringMethod.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ReadStringMethod.java)
+12. Program to reverse the words in a string. [ReverseString.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ReverseString.java)
+13. Program to read a string and replace all the vowels with a **@** symbol. [ReplaceVowels.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ReplaceVowels.java)
+14. Program to count the number of occurrences of a search string in a given text string. [SubStringCount.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/SubStringCount.java)
 
 ### Module 4:
 
